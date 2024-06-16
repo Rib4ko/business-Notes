@@ -1,5 +1,5 @@
     html,body{
-           background: linear-gradient(#a2d2ff, #EFB0C9);
+        background-color:rgb(117, 165, 254);
         text-align: center;
         color: white;
         margin: 0;
@@ -9,7 +9,7 @@
     }
     #container{
         padding: 10px;
-        background-color:rgb(168, 187, 255);
+        background: linear-gradient(#91d3ff, #41a4fa);
         display:flex;
         flex-direction: column;
         max-width: 400px;
